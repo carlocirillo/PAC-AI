@@ -20,3 +20,22 @@
 git clone https://github.com/carlocirillo/PAC-AI.git
 cd PAC-AI
 pip install -r requirements.txt
+```
+
+---
+
+## 🚀 Training
+
+Start the training by running the Pac-AI/train.py module
+
+```bash
+python .\Pac-AI\train.py
+```
+
+## 🤖 Visualize progress
+
+You can visualize the training of the agent by running Pac-AI/play.py
+
+```bash
+python .\Pac-AI\play.py
+```
