@@ -1,6 +1,6 @@
 # PAC-AI 🧠👾
 
-**PAC-AI** is a Reinforcement Learning (RL) agent that learns to play the classic **Pac-Man** game using **Stable-Baselines3**. The environment is built from scratch or adapted from a custom Pac-Man implementation, and the agent learns optimal strategies through trial and error using modern deep RL algorithms.
+**PAC-AI** is a Reinforcement Learning (RL) agent that learns to play the classic **Pac-Man** game using **Stable-Baselines3**. The environment is built from scratch, and the agent learns optimal strategies through trial and error using modern deep RL algorithms (PPO).
 
 ---
 
